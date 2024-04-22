@@ -48,6 +48,9 @@ User Interaction: Users can interact with the chatbot by typing messages and sen
    * Button: Used for sending messages and selecting language options.
 
 ### Screenshots of the MobileApp
+![Screenshot demo 1](SS3.png)
+![Screenshot demo 1](SS2.png)
+![Screenshot demo 1](SS1.png)
 
 
 
