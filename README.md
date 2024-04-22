@@ -1,8 +1,8 @@
 # TECH FOR MOBILE APPS (003)(24SS-Full)
 
-## Instructor: Dr William Akotam Agangiba :
+## Instructor: Dr William Akotam Agangiba
 
-## Final Project Team Members
+## Final Project Team Members:
 **Name**: Supraja Bethi                **Email**: bethisa@mail.uc.edu       
 **Name**: Sai Murali Maitreya Javvadi  **Email**: javvadsa@mail.uc.edu
 
@@ -11,11 +11,12 @@ Supraja Bethi and Sai Murali Maitreya collaborated on the final app project, res
 
 ## Repository Information
 
-Respository's URL: 
+Respository's URL: https://github.com/Bethisupraja/TravelersChatBot-TechMobileApps
 
 
-## Demonstration Vedio
-Link to the Vedio: 
+## Demonstration Video
+Link to the Video:      
+https://mailuc-my.sharepoint.com/:v:/g/personal/javvadsa_mail_uc_edu/Eby8IeuRhW5FryMP92GFzAYB0ZNGRm73hahBq49Ar4GZow?e=QVXGjp
 
 ### Implementation Overview:
 
